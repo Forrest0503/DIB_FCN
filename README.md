@@ -1,5 +1,5 @@
 # DIB_FCN
-本科毕业设计，基于全卷积网络的文档图像二值化算法，代码基于https://github.com/ljanyst/image-segmentation-fcn并进行了修改。
+本科毕业设计，基于全卷积网络的文档图像二值化算法，代码基于https://github.com/ljanyst/image-segmentation-fcn，并进行了修改。
 
 ## 主要内容
 1. 引入VGG16，对池化层的特征图进行可视化，解释了下采样过程中笔画信息丢失问题。
